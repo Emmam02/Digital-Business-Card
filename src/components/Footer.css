@@ -1,0 +1,16 @@
+.footer-container {
+  height: 64px;
+  background-color: #161619;
+  margin-top: 24px;
+}
+
+.footer-image-container {
+  padding: 19px 73px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-image {
+  cursor: pointer;
+  width: 25px;
+}

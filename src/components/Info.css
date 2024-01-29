@@ -1,0 +1,68 @@
+.info-container {
+  color: #fff;
+}
+
+.info-image {
+  width: 317px;
+  margin: 0;
+  padding: 0;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.info-name {
+  font-size: 25px;
+  font-weight: 700px;
+  margin-top: 21px;
+  margin-bottom: 0;
+}
+
+.info-career {
+  font-size: 13px;
+  font-weight: 400;
+  color: #f3bf99;
+  margin-top: 6px;
+}
+.info-GET,
+.info-GET::after {
+  color: #f3bf99;
+}
+
+.info-website {
+  font-size: 10px;
+  font-weight: 400;
+}
+
+.info-website:hover {
+  color: rgb(75, 75, 233);
+  text-decoration: underline;
+  cursor: pointer;
+}
+.info-button-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 17px;
+  text-align: center;
+}
+
+.info-button-email,
+.info-button-linkedIn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 115px;
+  height: 34px;
+  border-radius: 6px;
+  border: 1px solid #d1d5db;
+  cursor: pointer;
+}
+.info-button-linkedIn {
+  background-color: #5093e2;
+  border: 1px solid #5093e2;
+}
+
+.info-button-email-image,
+.info-button-linkedIn-image {
+  margin-right: 8px;
+  width: 16px;
+}

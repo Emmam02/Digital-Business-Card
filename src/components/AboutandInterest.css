@@ -1,0 +1,27 @@
+.about-container,
+.interest-container {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  width: 247px;
+  margin-left: 36px;
+}
+
+.about-title,
+.interest-title {
+  color: #f5f5f5;
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0;
+  margin-top: 33px;
+}
+.interest-title {
+  margin-top: 27px;
+}
+.about-info,
+.interest-info {
+  font-size: 10px;
+  font-weight: 400;
+  color: #dcdcdc;
+  margin-top: 5px;
+}
